@@ -1,0 +1,16 @@
+.sw {
+     display: flex;
+     justify-content: center;   
+     border: 1px solid #1abc9c;
+     border-radius: 10px 10px;
+     margin: 10px;
+     padding: 5px;
+     font-size: 20px;
+}
+.cifr{
+    margin-right: 20px;
+}
+.swBtn {
+    margin-right: 5px;
+    
+}

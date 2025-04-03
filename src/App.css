@@ -1,0 +1,40 @@
+#root {
+  width: 450px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+#pole {
+ 
+  width: auto;
+  height: auto;
+  border: 2px solid #1abc9c;
+}
+
+.menuBtn {
+  font-size: 16px;
+}
+
+.bVis {
+  display: inline;
+}
+
+.bInvis {
+  display: none;
+}
+
+.menu {
+  display: flex;
+  justify-content: center; 
+  height: 30px;
+  margin-top: 10px;
+}
